@@ -5,3 +5,4 @@ area = pi*r*r
 
 print("원의 둘레는 ", circumference, "입니다.")
 print("원의 넓이는 ", area, "입니다.")
+
